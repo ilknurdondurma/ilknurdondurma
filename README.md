@@ -1,12 +1,7 @@
 ### Hi there 👋
-<br/>
+
 <p align="center">
-  <a href="https://github.com/İlknur Dondurma/">
-    <img src="https://avatars.githubusercontent.com/u/79365821?s=400&u=cd68ee3dca58072eab8fa51f64834311696e0769&v=4" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">İlknur Dondurma</h3>
-
   <p align="center">
     JR. FRONT END DEVELOPER
     <br/>
