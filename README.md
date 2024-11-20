@@ -3,7 +3,7 @@
 <p align="center">
   <h3 align="center">İlknur Dondurma</h3>
   <p align="center">
-    JR. FRONT END DEVELOPER
+    JR. FULL STACK DEVELOPER
     <br/>
     <br/>
   </p>
